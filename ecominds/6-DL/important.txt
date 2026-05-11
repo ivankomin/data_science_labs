@@ -1,0 +1,1 @@
+Did this one in Google Colab, because i drowned in dependency hell trying to do this locally in Jupyter, so you only get the ipynb for this lab lol
